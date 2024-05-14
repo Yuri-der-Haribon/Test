@@ -5,12 +5,12 @@ public class Main
     {
         int summe = 0;
         for(int i = 1; i <= 10; i++){
-            summe += 1;
+            summe = summe +1;
         }
         
         int multi = 1;
         for(int i = 1; i <= 10; i++){
-            summe *= i;
+            summe = summe * i;
         }
     }
 }
