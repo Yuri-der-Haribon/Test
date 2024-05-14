@@ -11,7 +11,7 @@ public class Main
             summe = summe +1;
         }
         
-        int multi = 1;
+        double multi = 1;
 
         for(int i = 1; i <= obereGrenze; i++){
 
