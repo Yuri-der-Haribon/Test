@@ -10,6 +10,7 @@ public class Main
 
             summe = summe +1;
         }
+
         //Prüfungsrelevant BigInteger
         BigInteger multi = new BigInteger("1");
 
